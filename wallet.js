@@ -10,3 +10,8 @@ async function connectWallet() {
         alert("MetaMask is required to use this feature.");
     }
 }
+
+async function fetchOwnedLand() {
+    // This function should interact with smart contracts to fetch NFT data
+    console.log("Fetching owned land...");
+}
