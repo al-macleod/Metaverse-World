@@ -1,0 +1,18 @@
+/metaverse-prototype
+│── /public
+│   ├── index.php      # Main UI page
+│   ├── auth.php       # User authentication logic
+│   ├── dashboard.php  # User dashboard after login
+│   ├── styles.css     # TailwindCSS styles
+│   ├── wallet.js      # JavaScript for wallet integration
+│── /includes
+│   ├── config.php     # Database and config settings
+│   ├── session.php    # Session management
+│── /assets
+│   ├── shopfronts/    # UI images for immersion
+│── /db
+│   ├── database.sql   # User database schema
+│── .env               # Environment variables
+│── composer.json      # PHP dependencies
+│── package.json       # JavaScript dependencies (if needed)
+│── README.md          # Project documentation
